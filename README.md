@@ -1,9 +1,9 @@
-> *last updated:* ***13.10.2019*** um ***12:03***
+> *last updated:* ***13.10.2019*** um ***12:04***
 
 ## PC-ToolBot!
 | **CommandName** | **CommandEingabe** |
 |--|---|
-| **Help:** | *.pc help* |
+| **Help - Main:** | *.pc help* |
 | **Help - Tools:** | *.pc tools help* |
 | **Help - Ticket:** | *.pc ticket help* |
 | **Join Support:** | *.pc support* |
@@ -13,9 +13,12 @@
 
 | **Rang** | **Name** |
 |--|---|
-| **Bot-Owner:** | *zJustMarcel02#2307* |
+| **Bot-Founder:** | *zJustMarcel02#2307* |
 | **Bot-Founder:** | *LennexDev#4668* |
 | **Support:** | *Free* |
+| **Support:** | *Free* |
+| **Support:** | *Free* |
+| **Bot-Tester:** | *Free* |
 | **Bot-Tester:** | *Free* |
 
 ## Hosting & Infos!
