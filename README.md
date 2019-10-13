@@ -15,7 +15,7 @@
 |--|---|
 | **Bot-Founder:** | *zJustMarcel02#2307* |
 | **Bot-Founder:** | *LennexDev#4668* |
-| **Support:** | *Free* |
+| **Support:** | *SoundHrozd#0229* |
 | **Support:** | *Free* |
 | **Support:** | *Free* |
 | **Bot-Tester:** | *Free* |
