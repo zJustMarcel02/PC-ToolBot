@@ -1,4 +1,4 @@
-> *last updated:* ***13.10.2019*** um ***12:02***
+> *last updated:* ***13.10.2019*** um ***12:03***
 
 ## PC-ToolBot!
 | **CommandName** | **CommandEingabe** |
@@ -6,6 +6,7 @@
 | **Help:** | *.pc help* |
 | **Help - Tools:** | *.pc tools help* |
 | **Help - Ticket:** | *.pc ticket help* |
+| **Join Support:** | *.pc support* |
 
 
 ## Bot-Team!
