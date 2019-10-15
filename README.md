@@ -24,8 +24,8 @@
 | **Bot-Tester:** | *Free* |
 | **Bot-Tester:** | *Free* |
 
-## ToDo_List!
-| **ToDo** | **Ready** |
+## ToDo - List!
+| **Todo** | **Ready** |
 |--|---|
 | **Bot Created:** | *Ready* |
 | **Help CMD Created:** | *Ready* |
