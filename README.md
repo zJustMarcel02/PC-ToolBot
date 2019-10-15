@@ -1,4 +1,4 @@
-> *last updated:* ***13.10.2019*** um ***20:24***
+> *last updated:* ***13.10.2019*** um ***20:25***
 
 ## PC-ToolBot!
 
@@ -25,8 +25,8 @@
 | **Bot-Tester:** | *Free* |
 
 ## ToDo_List!
-| **ToDo** | **Ready** / *¤* |
-|------|------|
+| **ToDo** | **Ready** |
+|------|-------|
 | **PC-ToolBot create!** | *¤* |
 | **Help Command create!** | *¤* |
 
@@ -43,3 +43,4 @@
 **Coding-App:**  
 - **Discord Bot Designer** / (*Discord Bot's*)
 - **Notepad++** (*Config's & Other's!*)
+- **Eclipse** (*Java Coding!*)
