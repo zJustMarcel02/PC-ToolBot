@@ -27,8 +27,8 @@
 ## ToDo_List!
 | **ToDo** | **Ready** |
 |--|---|
-| **PC-ToolBot create!** | *¤* |
-| **Help Command create!** | *¤* |
+| **Bot Created:** | *Ready* |
+| **Help CMD Created:** | *Ready* |
 
 ## Hosting & Infos!
 
