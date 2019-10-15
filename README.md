@@ -8,6 +8,7 @@
 | **Help - Tools:** | *.pc tools help* |
 | **Help - Ticket:** | *.pc ticket help* |
 | **Join Support:** | *.pc support* |
+| **Clear Messages / Moderation** | *.pc mod clear ``Amount``* |
 
 
 ## Bot-Team!
@@ -21,6 +22,13 @@
 | **Support:** | *Free* |
 | **Bot-Tester:** | *Free* |
 | **Bot-Tester:** | *Free* |
+| **Bot-Tester:** | *Free* |
+
+## ToDo_List!
+| **ToDo** | **Ready** / *¤* |
+|------|------|
+| **PC-ToolBot create!** | *¤* |
+| **Help Command create!** | *¤* |
 
 ## Hosting & Infos!
 
@@ -33,4 +41,5 @@
 ## SOFTWARE
 
 **Coding-App:**  
-- Discord Bot Designer!
+- **Discord Bot Designer** / (*Discord Bot's*)
+- **Notepad++** (*Config's & Other's!*)
