@@ -27,7 +27,7 @@
 ## ToDo - List!
 | **Todo** | **Ready** |
 |--|---|
-| **Bot Created:** | *Ready* |
+| **Bot Created:** | *Ready* 
 | **Help CMD Created:** | *Ready* |
 
 ## Hosting & Infos!
