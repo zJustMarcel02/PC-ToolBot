@@ -34,7 +34,7 @@
 
 | **HostName** | **HostInfo** |  
 |--|---|
-| **Website:** | Die *Website* Kommt ***demnächst!***
+| **Website:** | Die *Website* Kommt ***demnächst!*** |
 | **Bot-Hosting** | Hosting via App! <br>- [App on Google Play!](https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger&hl=de_AT)<br>- Downloade dir die *App* und überzeuge dich selbst! |  
 
 
