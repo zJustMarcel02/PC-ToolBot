@@ -1,4 +1,4 @@
-> *last updated:* ***13.10.2019*** um ***20:25***
+> *last updated:* ***13.10.2019*** um ***20:29***
 
 ## PC-ToolBot!
 
@@ -26,14 +26,14 @@
 
 ## ToDo_List!
 | **ToDo** | **Ready** |
-|------|-------|
+|--|---|
 | **PC-ToolBot create!** | *¤* |
 | **Help Command create!** | *¤* |
 
 ## Hosting & Infos!
 
 | **HostName** | **HostInfo** |  
-|------|-------|
+|--|---|
 | **Website:** | Die *Website* Kommt ***demnächst!***
 | **Bot-Hosting** | Hosting via App! <br>- [App on Google Play!](https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger&hl=de_AT)<br>- Downloade dir die *App* und überzeuge dich selbst! |  
 
