@@ -1,4 +1,4 @@
-> *last updated:* ***13.10.2019*** um ***20:38***
+> *last updated:* ***19.10.2019*** um ***17:47***
 
 ## PC-ToolBot!
 
@@ -27,7 +27,7 @@
 ## ToDo - List!
 | **Todo** | **Ready** |
 |--|---|
-| **Bot Created:** | *Ready* 
+| **Bot Created:** | *Ready* |
 | **Help CMD Created:** | *Ready* |
 
 ## Hosting & Infos!
